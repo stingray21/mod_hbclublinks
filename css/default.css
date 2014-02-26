@@ -1,0 +1,14 @@
+div.clublinkBox {
+	//border: 1px solid #DDD;
+	width: 100%;
+	margin-bottom: 1em;
+	//padding: 5px;
+	}
+
+div.clublinkBox img {
+	width: 16%;
+	display: block;
+	//border: 1px solid black;
+	margin: 1%;
+	float: left;
+	}
