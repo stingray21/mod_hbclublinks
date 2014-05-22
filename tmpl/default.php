@@ -15,5 +15,5 @@ foreach ($clublinks as $clublink) {
 	echo '</a>';
 }
 
-
+echo '<div class="clr"></div>';
 echo "</div>";
